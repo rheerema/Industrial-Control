@@ -1,0 +1,4744 @@
+--- Datagram ---
+E0                                                |  . 
+--- Datagram ---
+91 0A 0E 1E 31 30 32 32                           |  ....1022 
+--- Datagram ---
+20 69 6E 69 74 69 61 6C  69 7A 69 6E 67 2E 2E     |   initializing.. 
+--- Datagram ---
+2E 0D                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 90 70                                          |  ..p 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50 55 53 54  41 52 54 20 3A 3A 20 20  |  .. CPUSTART ::   
+--- Datagram ---
+44 49 56 45 52 54 84 1D  90 74                    |  DIVERT...t 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50 55 53 54  41 52 54 20              |  .. CPUSTART  
+--- Datagram ---
+3A 3A 20 20 44 49 56 45  52 54 8D 1D 90 7D        |  ::  DIVERT...} 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50 55 53 54                           |  .. CPUST 
+--- Datagram ---
+41 52 54 20 3A 3A 20 20  44 49 56 45 52 54 8C 1D  |  ART ::  DIVERT.. 
+--- Datagram ---
+90 7C                                             |  .| 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50                                    |  .. CP 
+--- Datagram ---
+55 53 54 41 52 54 20 3A  3A 20 20 44 49 56 45     |  USTART ::  DIVE 
+--- Datagram ---
+52 54 8D 1D 90 7D                                 |  RT...} 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 20 43 50 55 53 54 41  52 54 20 3A 3A 20 20     |  . CPUSTART ::   
+--- Datagram ---
+44 49 56 45 52 54 8C 1D  90 7C                    |  DIVERT...| 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50 55 53 54  41 52 54 20 3A           |  .. CPUSTART : 
+--- Datagram ---
+3A 20 20 44 49 56 45 52  54 85 1D 90 75           |  :  DIVERT...u 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50 55 53 54  41                       |  .. CPUSTA 
+--- Datagram ---
+52 54 20 3A 3A 20 20 44  49 56 45 52 54 84 1D     |  RT ::  DIVERT.. 
+--- Datagram ---
+90 74 98 90                                       |  .t.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50                                    |  .. CP 
+--- Datagram ---
+55 53 54 41 52 54 20 3A  3A 20 20 44 49 56 45     |  USTART ::  DIVE 
+--- Datagram ---
+52 54 85 1D 90 75 98 90                           |  RT...u.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 20 43 50 55 53 54 41  52 54 20 3A 3A 20 20 44  |  . CPUSTART ::  D 
+--- Datagram ---
+49 56 45 52 54 84 1D 90  74                       |  IVERT...t 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50 55 53 54  41 52 54 20 3A           |  .. CPUSTART : 
+--- Datagram ---
+3A 20 20 44 49 56 45 52  54 85 1D 90 75           |  :  DIVERT...u 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50 55 53 54  41                       |  .. CPUSTA 
+--- Datagram ---
+52 54 20 3A 3A 20 20 44  49 56 45 52 54 84 1D     |  RT ::  DIVERT.. 
+--- Datagram ---
+90 74 98 90                                       |  .t.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50                                    |  .. CP 
+--- Datagram ---
+55 53 54 41 52 54 20 3A  3A 20 20 44 49 56 45 52  |  USTART ::  DIVER 
+--- Datagram ---
+54 8D 1D 90 7D 98 90                              |  T...}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+20 43 50 55 53 54 41 52  54 20 3A 3A 20 20 44     |   CPUSTART ::  D 
+--- Datagram ---
+49 56 45 52 54 8C 1D 90  7C                       |  IVERT...| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50 55 53 54  41 52 54 20 3A           |  .. CPUSTART : 
+--- Datagram ---
+3A 20 20 44 49 56 45 52  54 8D 1D 90 7D           |  :  DIVERT...} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50 55 53 54  41 52                    |  .. CPUSTAR 
+--- Datagram ---
+54 20 3A 3A 20 20 44 49  56 45 52 54 8C 1D 90     |  T ::  DIVERT... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+37 2E 33 25 20 20 20 20  42 3A 20 36 36 2E 39     |  7.3%    B: 66.9 
+--- Datagram ---
+25 0D 85 1D 90 75 98 90                           |  %....u.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 37 2E 32 25  20 20 20 20 42 3A 20     |  A: 67.2%    B:  
+--- Datagram ---
+36 36 2E 38 25 0D 84 1D  90 74                    |  66.8%....t 
+--- Datagram ---
+98 90 98                                          |  ... 
+--- Datagram ---
+91 0D 41 3A 20 36 37 2E  32 25 20 20 20 20        |  ..A: 67.2%     
+--- Datagram ---
+42 3A 20 36 36 2E 38 25  0D 85 1D 90 75           |  B: 66.8%....u 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 37 2E  32 25                    |  ..A: 67.2% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 38 25 0D 84 1D     |      B: 66.8%... 
+--- Datagram ---
+90 74 98 90                                       |  .t.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+37 2E 32 25 20 20 20 20  42 3A 20 36 36 2E 38     |  7.2%    B: 66.8 
+--- Datagram ---
+25 0D 85 1D 90 75 98 90                           |  %....u.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 37 2E 32 25  20 20 20 20 42 3A 20 36  |  A: 67.2%    B: 6 
+--- Datagram ---
+36 2E 38 25 0D 84 1D 90  74                       |  6.8%....t 
+--- Datagram ---
+98 90 98                                          |  ... 
+--- Datagram ---
+91 0D 41 3A 20 36 37 2E  32 25 20 20 20 20        |  ..A: 67.2%     
+--- Datagram ---
+42 3A 20 36 36 2E 38 25  0D 8D 1D 90 7D           |  B: 66.8%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 37 2E  32 25                    |  ..A: 67.2% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 38 25 0D 8C 1D 90  |      B: 66.8%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 37                              |  ..A: 67 
+--- Datagram ---
+2E 31 25 20 20 20 20 42  3A 20 36 36 2E 38 25     |  .1%    B: 66.8% 
+--- Datagram ---
+0D 8D 1D 90 7D 98 90                              |  ....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 37 2E 31 25 20  20 20 20 42 3A 20 36     |  : 67.1%    B: 6 
+--- Datagram ---
+36 2E 38 25 0D 8C 1D 90  7C                       |  6.8%....| 
+--- Datagram ---
+98 90 98                                          |  ... 
+--- Datagram ---
+91 0D 41 3A 20 36 37 2E  31 25 20 20 20 20        |  ..A: 67.1%     
+--- Datagram ---
+42 3A 20 36 36 2E 38 25  0D 85 1D 90 75           |  B: 66.8%....u 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 37 2E  30 25 20                 |  ..A: 67.0%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 38 25 0D 84 1D 90     |     B: 66.8%.... 
+--- Datagram ---
+74 98 90                                          |  t.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 37                              |  ..A: 67 
+--- Datagram ---
+2E 30 25 20 20 20 20 42  3A 20 36 36 2E 37 25     |  .0%    B: 66.7% 
+--- Datagram ---
+0D 85 1D 90 75 98 90                              |  ....u.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 37 2E 30 25 20  20 20 20 42 3A 20 36     |  : 67.0%    B: 6 
+--- Datagram ---
+36 2E 37 25 0D 84 1D 90  74 98                    |  6.7%....t. 
+--- Datagram ---
+90 98                                             |  .. 
+--- Datagram ---
+91 0D 41 3A 20 36 37 2E  30 25 20 20 20 20 42     |  ..A: 67.0%    B 
+--- Datagram ---
+3A 20 36 36 2E 37 25 0D  85 1D 90 75              |  : 66.7%....u 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 37 2E  30 25 20                 |  ..A: 67.0%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 37 25 0D 84 1D 90     |     B: 66.7%.... 
+--- Datagram ---
+74 98 90                                          |  t.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 37                              |  ..A: 67 
+--- Datagram ---
+2E 30 25 20 20 20 20 42  3A 20 36 36 2E 37 25 0D  |  .0%    B: 66.7%. 
+--- Datagram ---
+8D 1D 90 7D 98 90                                 |  ...}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 37 2E 30 25 20  20 20 20 42 3A 20 36 36  |  : 67.0%    B: 66 
+--- Datagram ---
+2E 37 25 0D 8C 1D 90 7C  98                       |  .7%....|. 
+--- Datagram ---
+90 98                                             |  .. 
+--- Datagram ---
+91 0D 41 3A 20 36 37 2E  30 25 20 20 20 20 42     |  ..A: 67.0%    B 
+--- Datagram ---
+3A 20 36 36 2E 37 25 0D  8D 1D 90 7D              |  : 66.7%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 37 2E  30 25 20                 |  ..A: 67.0%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 37 25 0D 8C 1D 90     |     B: 66.7%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 37 2E                           |  ..A: 67. 
+--- Datagram ---
+30 25 20 20 20 20 42 3A  20 36 36 2E 37 25 0D     |  0%    B: 66.7%. 
+--- Datagram ---
+85 1D 90 75 98 90                                 |  ...u.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 37 2E 30 25 20 20  20 20 42 3A 20 36 36     |   67.0%    B: 66 
+--- Datagram ---
+2E 37 25 0D 84 1D 90 74  98 90                    |  .7%....t.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 37 2E  30 25 20 20 20 20 42     |  ..A: 67.0%    B 
+--- Datagram ---
+3A 20 36 36 2E 37 25 0D  85 1D 90 75              |  : 66.7%....u 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 37 2E  30 25 20 20              |  ..A: 67.0%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  37 25 0D 84 1D 90        |    B: 66.7%.... 
+--- Datagram ---
+74 98 90                                          |  t.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 52 65 66 72 61                           |  .. Refra 
+--- Datagram ---
+63 73 20 4F 55 54 3A 20  44 49 56 45 52 54 85     |  cs OUT: DIVERT. 
+--- Datagram ---
+1D 90 75 98 90                                    |  ..u.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 52                                       |  .. R 
+--- Datagram ---
+65 66 72 61 63 73 20 4F  55 54 3A 20 44 49 56 45  |  efracs OUT: DIVE 
+--- Datagram ---
+52 54 84 1D 90 74 98 90                           |  RT...t.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 20 52 65 66 72 61 63  73 20 4F 55 54 3A 20     |  . Refracs OUT:  
+--- Datagram ---
+44 49 56 45 52 54 8D 1D  90 7D                    |  DIVERT...} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 52 65 66 72 61  63 73 20 4F              |  .. Refracs O 
+--- Datagram ---
+55 54 3A 20 44 49 56 45  52 54 8C 1D 90 7C        |  UT: DIVERT...| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 52 65 66 72 61                           |  .. Refra 
+--- Datagram ---
+63 73 20 4F 55 54 3A 20  44 49 56 45 52 54 8D 1D  |  cs OUT: DIVERT.. 
+--- Datagram ---
+90 7D 98 90                                       |  .}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 52 65                                    |  .. Re 
+--- Datagram ---
+66 72 61 63 73 20 4F 55  54 3A 20 44 49 56 45     |  fracs OUT: DIVE 
+--- Datagram ---
+52 54 8C 1D 90 7C 98 90                           |  RT...|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 20 52 65 66 72 61 63  73 20 4F 55 54 3A 20     |  . Refracs OUT:  
+--- Datagram ---
+44 49 56 45 52 54 85 1D  90 75                    |  DIVERT...u 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 52 65 66 72 61  63 73 20 4F              |  .. Refracs O 
+--- Datagram ---
+55 54 3A 20 44 49 56 45  52 54 84 1D 90 74        |  UT: DIVERT...t 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 52 65 66 72 61  63                       |  .. Refrac 
+--- Datagram ---
+73 20 4F 55 54 3A 20 44  49 56 45 52 54 85 1D     |  s OUT: DIVERT.. 
+--- Datagram ---
+90 75 98 90                                       |  .u.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 52 65                                    |  .. Re 
+--- Datagram ---
+66 72 61 63 73 20 4F 55  54 3A 20 44 49 56 45     |  fracs OUT: DIVE 
+--- Datagram ---
+52 54 84 1D 90 74 98 90                           |  RT...t.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 20 52 65 66 72 61 63  73 20 4F 55 54 3A 20 44  |  . Refracs OUT: D 
+--- Datagram ---
+49 56 45 52 54 85 1D 90  75                       |  IVERT...u 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 52 65 66 72 61  63 73 20 4F 55           |  .. Refracs OU 
+--- Datagram ---
+54 3A 20 44 49 56 45 52  54 8C 1D 90 7C           |  T: DIVERT...| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 52 65 66 72 61  63                       |  .. Refrac 
+--- Datagram ---
+73 20 4F 55 54 3A 20 44  49 56 45 52 54 8D 1D     |  s OUT: DIVERT.. 
+--- Datagram ---
+90 7D 98 90                                       |  .}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 52 65                                    |  .. Re 
+--- Datagram ---
+66 72 61 63 73 20 4F 55  54 3A 20 44 49 56 45 52  |  fracs OUT: DIVER 
+--- Datagram ---
+54 8C 1D 90 7C 98 90                              |  T...|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+20 52 65 66 72 61 63 73  20 4F 55 54 3A 20 44     |   Refracs OUT: D 
+--- Datagram ---
+49 56 45 52 54 8D 1D 90  7D                       |  IVERT...} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  39 25 20 20 20           |  ..A: 66.9%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8C 1D 90 7C        |   B: 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  39                       |  ..A: 66.9 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8D 1D  |  %    B: 66.6%... 
+--- Datagram ---
+90 7D 98 90                                       |  .}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 39 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.9%    B: 66.6 
+--- Datagram ---
+25 0D 8C 1D 90 7C 98 90                           |  %....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 39 25  20 20 20 20 42 3A 20     |  A: 66.9%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8D 1D  90 7D                    |  66.6%....} 
+--- Datagram ---
+98 90 98                                          |  ... 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  39 25 20 20 20 20        |  ..A: 66.9%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8C 1D 90 7C           |  B: 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  39 25                    |  ..A: 66.9% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8D 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7D 98 90                                       |  .}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 39 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.9%    B: 66.6 
+--- Datagram ---
+25 0D 8C 1D 90 7C 98 90                           |  %....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 39 25  20 20 20 20 42 3A 20 36  |  A: 66.9%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8D 1D 90  7D                       |  6.6%....} 
+--- Datagram ---
+98 90 98                                          |  ... 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  39 25 20 20 20 20        |  ..A: 66.9%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8C 1D 90 7C           |  B: 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  39 25                    |  ..A: 66.9% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8D 1D 90  |      B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 39 25 20 20 20 20  42 3A 20 36 36 2E 36 25  |  6.9%    B: 66.6% 
+--- Datagram ---
+0D 8C 1D 90 7C 98 90                              |  ....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 39 25 20  20 20 20 42 3A 20 36     |  : 66.9%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8D 1D 90  7D                       |  6.6%....} 
+--- Datagram ---
+98 90 98                                          |  ... 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  39 25 20 20 20 20        |  ..A: 66.9%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8C 1D 90 7C           |  B: 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  39 25 20                 |  ..A: 66.9%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8D 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 39 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .9%    B: 66.6% 
+--- Datagram ---
+0D 8C 1D 90 7C 98 90                              |  ....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 39 25 20  20 20 20 42 3A 20 36 36  |  : 66.9%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8D 1D 90 7D  98                       |  .6%....}. 
+--- Datagram ---
+90 98                                             |  .. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  39 25 20 20 20 20 42     |  ..A: 66.9%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8C 1D 90 7C              |  : 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  39 25 20                 |  ..A: 66.9%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8D 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 39 25 20 20 20 20 42  3A 20 36 36 2E 36 25 0D  |  .9%    B: 66.6%. 
+--- Datagram ---
+8C 1D 90 7C 98 90                                 |  ...|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 39 25 20 20  20 20 42 3A 20 36 36     |   66.9%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8D 1D 90 7D  98                       |  .6%....}. 
+--- Datagram ---
+90 98                                             |  .. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  39 25 20 20 20 20 42     |  ..A: 66.9%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8C 1D 90 7C              |  : 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  39 25 20                 |  ..A: 66.9%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8D 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+39 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  9%    B: 66.6%. 
+--- Datagram ---
+8C 1D 90 7C 98 90                                 |  ...|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8D 1D 90 7D  98 90                    |  .6%....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8C 1D 90 7C              |  : 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8D 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  8%    B: 66.6%. 
+--- Datagram ---
+8C 1D 90 7C 98 90                                 |  ...|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36 2E  |   66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8D 1D 90 7D 98  90                       |  6%....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8C  1D 90 7C                 |   66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8D 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D 8C  |  8%    B: 66.6%.. 
+--- Datagram ---
+1D 90 7C 98 90                                    |  ..|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8D 1D 90 7D 98  90                       |  6%....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8C  1D 90 7C                 |   66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8D 1D 90           |   B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8C     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7C 98 90                                    |  ..|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8D 1D 90 7D 98  90                       |  6%....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A 20  |  .A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8C 1D  90 7C                    |  66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8D 1D 90           |   B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8C 1D  |  %    B: 66.6%... 
+--- Datagram ---
+90 7C 98 90                                       |  .|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E 36  |  66.8%    B: 66.6 
+--- Datagram ---
+25 0D 8D 1D 90 7D 98 90                           |  %....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8C 1D  90 7C                    |  66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8D 1D 90 7D        |   B: 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8C 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7C 98 90                                       |  .|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8D 1D 90 7D 98 90                           |  %....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8C 1D  90 7C                    |  66.6%....| 
+--- Datagram ---
+98 90 98                                          |  ... 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8D 1D 90 7D           |  B: 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8C 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7C 98 90                                       |  .|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36 25  |  6.8%    B: 66.6% 
+--- Datagram ---
+0D 8D 1D 90 7D 98 90                              |  ....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20 36  |  A: 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8C 1D 90  7C                       |  6.6%....| 
+--- Datagram ---
+98 90 98                                          |  ... 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8D 1D 90 7D           |  B: 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8C 1D 90  |      B: 66.6%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8D 1D 90 7D 98 90                              |  ....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36     |  : 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8C 1D 90  7C 98                    |  6.6%....|. 
+--- Datagram ---
+90 98                                             |  .. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8D 1D 90 7D           |  B: 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8C 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8D 1D 90 7D 98 90                              |  ....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36 36  |  : 66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8C 1D 90 7C  98                       |  .6%....|. 
+--- Datagram ---
+90 98                                             |  .. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8D 1D 90 7D              |  : 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8C 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25 0D  |  .8%    B: 66.6%. 
+--- Datagram ---
+8D 1D 90 7D 98 90                                 |  ...}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8C 1D 90 7C  98                       |  .6%....|. 
+--- Datagram ---
+90 98                                             |  .. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8D 1D 90 7D              |  : 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8C 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  8%    B: 66.6%. 
+--- Datagram ---
+8D 1D 90 7D 98 90                                 |  ...}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8C 1D 90 7C  98 90                    |  .6%....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42 3A  |  ..A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8D  1D 90 7D                 |   66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8C 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  8%    B: 66.6%. 
+--- Datagram ---
+8D 1D 90 7D 98 90                                 |  ...}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36 2E  |   66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8C 1D 90 7C 98  90                       |  6%....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8D  1D 90 7D                 |   66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8C 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8D     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7D 98 90                                    |  ..}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8C 1D 90 7C 98  90                       |  6%....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8D  1D 90 7D                 |   66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8C 1D 90           |   B: 66.6%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8D     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7D 98 90                                    |  ..}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8C 1D 90 7C 98  90                       |  6%....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A 20  |  .A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8D 1D  90 7D                    |  66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8C 1D 90 7C        |   B: 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8D 1D  |  %    B: 66.6%... 
+--- Datagram ---
+90 7D 98 90                                       |  .}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E 36  |  66.8%    B: 66.6 
+--- Datagram ---
+25 0D 8C 1D 90 7C 98 90                           |  %....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8D 1D  90 7D                    |  66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8C 1D 90 7C        |   B: 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8D 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7D 98 90                                       |  .}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8C 1D 90 7C 98 90                           |  %....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20 36  |  A: 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8D 1D 90  7D                       |  6.6%....} 
+--- Datagram ---
+98 90 98                                          |  ... 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8C 1D 90 7C           |  B: 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8D 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7D 98 90                                       |  .}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36 25  |  6.8%    B: 66.6% 
+--- Datagram ---
+0D 8C 1D 90 7C 98 90                              |  ....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36     |  : 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8D 1D 90  7D                       |  6.6%....} 
+--- Datagram ---
+98 90 98                                          |  ... 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8C 1D 90 7C           |  B: 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8D 1D 90  |      B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8C 1D 90 7C 98 90                              |  ....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36     |  : 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8D 1D 90  7D 98                    |  6.6%....}. 
+--- Datagram ---
+90 98                                             |  .. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8C 1D 90 7C              |  : 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8D 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8C 1D 90 7C 98 90                              |  ....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36 36  |  : 66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8D 1D 90 7D  98                       |  .6%....}. 
+--- Datagram ---
+90 98                                             |  .. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8C 1D 90 7C              |  : 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8D 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25 0D  |  .8%    B: 66.6%. 
+--- Datagram ---
+8C 1D 90 7C 98 90                                 |  ...|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8D 1D 90 7D  98                       |  .6%....}. 
+--- Datagram ---
+90 98                                             |  .. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8C 1D 90 7C              |  : 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8D 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  8%    B: 66.6%. 
+--- Datagram ---
+8C 1D 90 7C 98 90                                 |  ...|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8D 1D 90 7D  98 90                    |  .6%....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42 3A  |  ..A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8C  1D 90 7C                 |   66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8D 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D 8C  |  8%    B: 66.6%.. 
+--- Datagram ---
+1D 90 7C 98 90                                    |  ..|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36 2E  |   66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8D 1D 90 7D 98  90                       |  6%....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8C  1D 90 7C                 |   66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8D 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8C     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7C 98 90                                    |  ..|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8D 1D 90 7D 98  90                       |  6%....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8C  1D 90 7C                 |   66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8D 1D 90           |   B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8C     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7C 98 90                                    |  ..|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E 36  |  66.8%    B: 66.6 
+--- Datagram ---
+25 0D 8D 1D 90 7D 98 90                           |  %....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A 20  |  .A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8C 1D  90 7C                    |  66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8D 1D 90 7D        |   B: 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8C 1D  |  %    B: 66.6%... 
+--- Datagram ---
+90 7C 98 90                                       |  .|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8D 1D 90 7D 98 90                           |  %....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8C 1D  90 7C                    |  66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8D 1D 90 7D        |   B: 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8C 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7C 98 90                                       |  .|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8D 1D 90 7D 98 90                           |  %....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20 36  |  A: 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8C 1D 90  7C                       |  6.6%....| 
+--- Datagram ---
+98 90 98                                          |  ... 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8D 1D 90 7D           |  B: 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8C 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7C 98 90                                       |  .|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36 25  |  6.8%    B: 66.6% 
+--- Datagram ---
+0D 8D 1D 90 7D 98 90                              |  ....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36     |  : 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8C 1D 90  7C                       |  6.6%....| 
+--- Datagram ---
+98 90 98                                          |  ... 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8D 1D 90 7D           |  B: 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8C 1D 90  |      B: 66.6%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8D 1D 90 7D 98 90                              |  ....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36     |  : 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8C 1D 90  7C 98                    |  6.6%....|. 
+--- Datagram ---
+90 98                                             |  .. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8D 1D 90 7D              |  : 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8C 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8D 1D 90 7D 98 90                              |  ....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36 36  |  : 66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8C 1D 90 7C  98                       |  .6%....|. 
+--- Datagram ---
+90 98                                             |  .. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8D 1D 90 7D              |  : 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8C 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25 0D  |  .8%    B: 66.6%. 
+--- Datagram ---
+8D 1D 90 7D 98 90                                 |  ...}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8C 1D 90 7C  98                       |  .6%....|. 
+--- Datagram ---
+90 98                                             |  .. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8D 1D 90 7D              |  : 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8C 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  8%    B: 66.6%. 
+--- Datagram ---
+8D 1D 90 7D 98 90                                 |  ...}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8C 1D 90 7C  98 90                    |  .6%....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42 3A  |  ..A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8D  1D 90 7D                 |   66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8C 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D 8D  |  8%    B: 66.6%.. 
+--- Datagram ---
+1D 90 7D 98 90                                    |  ..}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36 2E  |   66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8C 1D 90 7C 98  90                       |  6%....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8D  1D 90 7D                 |   66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8C 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8D     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7D 98 90                                    |  ..}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8C 1D 90 7C 98  90                       |  6%....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A 20  |  .A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8D 1D  90 7D                    |  66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8C 1D 90           |   B: 66.6%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8D     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7D 98 90                                    |  ..}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E 36  |  66.8%    B: 66.6 
+--- Datagram ---
+25 0D 8C 1D 90 7C 98 90                           |  %....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A 20  |  .A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8D 1D  90 7D                    |  66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8C 1D 90 7C        |   B: 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8D 1D  |  %    B: 66.6%... 
+--- Datagram ---
+90 7D 98 90                                       |  .}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8C 1D 90 7C 98 90                           |  %....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8D 1D  90 7D                    |  66.6%....} 
+--- Datagram ---
+98 90 98                                          |  ... 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8C 1D 90 7C        |   B: 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8D 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7D 98 90                                       |  .}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8C 1D 90 7C 98 90                           |  %....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20 36  |  A: 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8D 1D 90  7D                       |  6.6%....} 
+--- Datagram ---
+98 90 98                                          |  ... 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8C 1D 90 7C           |  B: 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8D 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7D 98 90                                       |  .}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36 25  |  6.8%    B: 66.6% 
+--- Datagram ---
+0D 8C 1D 90 7C 98 90                              |  ....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36     |  : 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8D 1D 90  7D                       |  6.6%....} 
+--- Datagram ---
+98 90 98                                          |  ... 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8C 1D 90 7C           |  B: 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8D 1D 90  |      B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8C 1D 90 7C 98 90                              |  ....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36     |  : 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8D 1D 90  7D 98                    |  6.6%....}. 
+--- Datagram ---
+90 98                                             |  .. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8C 1D 90 7C              |  : 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8D 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8C 1D 90 7C 98 90                              |  ....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36 36  |  : 66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8D 1D 90 7D  98                       |  .6%....}. 
+--- Datagram ---
+90 98                                             |  .. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8C 1D 90 7C              |  : 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8D 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25 0D  |  .8%    B: 66.6%. 
+--- Datagram ---
+8C 1D 90 7C 98 90                                 |  ...|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8D 1D 90 7D  98                       |  .6%....}. 
+--- Datagram ---
+90 98                                             |  .. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8C 1D 90 7C              |  : 66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8D 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  8%    B: 66.6%. 
+--- Datagram ---
+8C 1D 90 7C 98 90                                 |  ...|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36 2E  |   66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8D 1D 90 7D 98  90                       |  6%....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42 3A  |  ..A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8C  1D 90 7C                 |   66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8D 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D 8C  |  8%    B: 66.6%.. 
+--- Datagram ---
+1D 90 7C 98 90                                    |  ..|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8D 1D 90 7D 98  90                       |  6%....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8C  1D 90 7C                 |   66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8D 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8C     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7C 98 90                                    |  ..|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8D 1D 90 7D 98  90                       |  6%....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A 20  |  .A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8C 1D  90 7C                    |  66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8D 1D 90           |   B: 66.6%.... 
+--- Datagram ---
+7D 98 90                                          |  }.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8C     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7C 98 90                                    |  ..|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E 36  |  66.8%    B: 66.6 
+--- Datagram ---
+25 0D 8D 1D 90 7D 98 90                           |  %....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8C 1D  90 7C                    |  66.6%....| 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8D 1D 90 7D        |   B: 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8C 1D  |  %    B: 66.6%... 
+--- Datagram ---
+90 7C 98 90                                       |  .|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8D 1D 90 7D 98 90                           |  %....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8C 1D  90 7C                    |  66.6%....| 
+--- Datagram ---
+98 90 98                                          |  ... 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8D 1D 90 7D           |  B: 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8C 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7C 98 90                                       |  .|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8D 1D 90 7D 98 90                           |  %....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20 36  |  A: 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8C 1D 90  7C                       |  6.6%....| 
+--- Datagram ---
+98 90 98                                          |  ... 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8D 1D 90 7D           |  B: 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8C 1D 90  |      B: 66.6%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36 25  |  6.8%    B: 66.6% 
+--- Datagram ---
+0D 8D 1D 90 7D 98 90                              |  ....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36     |  : 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8C 1D 90  7C                       |  6.6%....| 
+--- Datagram ---
+98 90 98                                          |  ... 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8D 1D 90 7D           |  B: 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8C 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8D 1D 90 7D 98 90                              |  ....}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36     |  : 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8C 1D 90  7C 98                    |  6.6%....|. 
+--- Datagram ---
+90 98                                             |  .. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8D 1D 90 7D              |  : 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8C 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25 0D  |  .8%    B: 66.6%. 
+--- Datagram ---
+8D 1D 90 7D 98 90                                 |  ...}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36 36  |  : 66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8C 1D 90 7C  98                       |  .6%....|. 
+--- Datagram ---
+90 98                                             |  .. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8D 1D 90 7D              |  : 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8C 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7C 98 90                                          |  |.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  8%    B: 66.6%. 
+--- Datagram ---
+8D 1D 90 7D 98 90                                 |  ...}.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8C 1D 90 7C  98 90                    |  .6%....|.. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8D 1D 90 7D              |  : 66.6%....} 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8C 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7C 98 90 40                                       |  |..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  8%    B: 66.6%. 
+--- Datagram ---
+8D 1D 90 7D 98 90 48                              |  ...}..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36 2E  |   66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8C 1D 90 7C 98  90                       |  6%....|.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8D  1D 90 7D                 |   66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8C 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7C 98 90 40                                       |  |..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D 8D  |  8%    B: 66.6%.. 
+--- Datagram ---
+1D 90 7D 98 90 48                                 |  ..}..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8C 1D 90 7C 98  90                       |  6%....|.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8D  1D 90 7D                 |   66.6%....} 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8C 1D 90           |   B: 66.6%.... 
+--- Datagram ---
+7C 98 90 48                                       |  |..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8D     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7D 98 90 48                                 |  ..}..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8C 1D 90 7C 98  90                       |  6%....|.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A 20  |  .A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8D 1D  90 7D                    |  66.6%....} 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8C 1D 90 7C        |   B: 66.6%....| 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8D 1D  |  %    B: 66.6%... 
+--- Datagram ---
+90 7D 98 90 48                                    |  .}..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E 36  |  66.8%    B: 66.6 
+--- Datagram ---
+25 0D 8C 1D 90 7C 98 90                           |  %....|.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8D 1D  90 7D                    |  66.6%....} 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8C 1D 90 7C        |   B: 66.6%....| 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8D 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7D 98 90 40                                    |  .}..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8C 1D 90 7C 98 90                           |  %....|.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8D 1D  90 7D                    |  66.6%....} 
+--- Datagram ---
+98 90 40 98                                       |  ..@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8C 1D 90 7C           |  B: 66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8D 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7D 98 90 40                                    |  .}..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36 25  |  6.8%    B: 66.6% 
+--- Datagram ---
+0D 8C 1D 90 7C 98 90                              |  ....|.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20 36  |  A: 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8D 1D 90  7D                       |  6.6%....} 
+--- Datagram ---
+98 90 48 98                                       |  ..H. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8C 1D 90 7C           |  B: 66.6%....| 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8D 1D 90  |      B: 66.6%.... 
+--- Datagram ---
+7D 98 90 48                                       |  }..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8C 1D 90 7C 98 90                              |  ....|.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36     |  : 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8D 1D 90  7D 98                    |  6.6%....}. 
+--- Datagram ---
+90 48 98                                          |  .H. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8C 1D 90 7C           |  B: 66.6%....| 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8D 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7D 98 90 48                                       |  }..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8C 1D 90 7C 98 90 48                           |  ....|..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36 36  |  : 66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8D 1D 90 7D  98                       |  .6%....}. 
+--- Datagram ---
+90 48 98                                          |  .H. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8C 1D 90 7C              |  : 66.6%....| 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8D 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7D 98 90 48                                       |  }..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25 0D  |  .8%    B: 66.6%. 
+--- Datagram ---
+8C 1D 90 7C 98 90 48                              |  ...|..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8D 1D 90 7D  98                       |  .6%....}. 
+--- Datagram ---
+90 40 98                                          |  .@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8C 1D 90 7C              |  : 66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8D 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7D 98 90 40                                       |  }..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  8%    B: 66.6%. 
+--- Datagram ---
+8C 1D 90 7C 98 90 40                              |  ...|..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8D 1D 90 7D  98 90                    |  .6%....}.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42 3A  |  ..A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8C  1D 90 7C                 |   66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8D 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7D 98 90 40                                       |  }..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  8%    B: 66.6%. 
+--- Datagram ---
+8C 1D 90 7C 98 90 40                              |  ...|..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36 2E  |   66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8D 1D 90 7D 98  90                       |  6%....}.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8C  1D 90 7C                 |   66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8D 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7D 98 90 40                                       |  }..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D 8C  |  8%    B: 66.6%.. 
+--- Datagram ---
+1D 90 7C 98 90 40                                 |  ..|..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8D 1D 90 7D 98  90                       |  6%....}.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8C  1D 90 7C                 |   66.6%....| 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8D 1D 90           |   B: 66.6%.... 
+--- Datagram ---
+7D 98 90 48                                       |  }..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8C     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7C 98 90 48                                 |  ..|..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E 36  |  66.8%    B: 66.6 
+--- Datagram ---
+25 0D 8D 1D 90 7D 98 90                           |  %....}.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A 20  |  .A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8C 1D  90 7C                    |  66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8D 1D 90 7D        |   B: 66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8C 1D  |  %    B: 66.6%... 
+--- Datagram ---
+90 7C 98 90 40                                    |  .|..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8D 1D 90 7D 98 90                           |  %....}.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8C 1D  90 7C                    |  66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8D 1D 90 7D        |   B: 66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8C 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7C 98 90 40                                    |  .|..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8D 1D 90 7D 98 90                           |  %....}.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8C 1D  90 7C                    |  66.6%....| 
+--- Datagram ---
+98 90 40 98                                       |  ..@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8D 1D 90 7D           |  B: 66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8C 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7C 98 90 40                                    |  .|..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36 25  |  6.8%    B: 66.6% 
+--- Datagram ---
+0D 8D 1D 90 7D 98 90                              |  ....}.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20 36  |  A: 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8C 1D 90  7C                       |  6.6%....| 
+--- Datagram ---
+98 90 40 98                                       |  ..@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8D 1D 90 7D           |  B: 66.6%....} 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8C 1D 90  |      B: 66.6%.... 
+--- Datagram ---
+7C 98 90 48                                       |  |..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8D 1D 90 7D 98 90                              |  ....}.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36     |  : 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8C 1D 90  7C 98                    |  6.6%....|. 
+--- Datagram ---
+90 48 98                                          |  .H. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8D 1D 90 7D              |  : 66.6%....} 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8C 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7C 98 90 48                                       |  |..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8D 1D 90 7D 98 90 48                           |  ....}..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36 36  |  : 66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8C 1D 90 7C  98                       |  .6%....|. 
+--- Datagram ---
+90 48 98                                          |  .H. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8D 1D 90 7D              |  : 66.6%....} 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8C 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7C 98 90 48                                       |  |..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25 0D  |  .8%    B: 66.6%. 
+--- Datagram ---
+8D 1D 90 7D 98 90 48                              |  ...}..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8C 1D 90 7C  98                       |  .6%....|. 
+--- Datagram ---
+90 40 98                                          |  .@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8D 1D 90 7D              |  : 66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8C 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7C 98 90 40                                       |  |..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  8%    B: 66.6%. 
+--- Datagram ---
+8D 1D 90 7D 98 90 40                              |  ...}..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8C 1D 90 7C  98 90                    |  .6%....|.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42 3A  |  ..A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8D  1D 90 7D                 |   66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8C 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7C 98 90 48                                       |  |..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D 8D  |  8%    B: 66.6%.. 
+--- Datagram ---
+1D 90 7D 98 90 48                                 |  ..}..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36 2E  |   66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8C 1D 90 7C 98  90                       |  6%....|.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8D  1D 90 7D                 |   66.6%....} 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8C 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7C 98 90 48                                       |  |..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8D     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7D 98 90 48                                 |  ..}..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8C 1D 90 7C 98  90                       |  6%....|.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8D  1D 90 7D                 |   66.6%....} 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8C 1D 90           |   B: 66.6%.... 
+--- Datagram ---
+7C 98 90 48                                       |  |..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8D     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7D 98 90 48                                 |  ..}..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E 36  |  66.8%    B: 66.6 
+--- Datagram ---
+25 0D 8C 1D 90 7C 98 90                           |  %....|.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8D 1D  90 7D                    |  66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8C 1D 90 7C        |   B: 66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8D 1D  |  %    B: 66.6%... 
+--- Datagram ---
+90 7D 98 90 40                                    |  .}..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8C 1D 90 7C 98 90                           |  %....|.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8D 1D  90 7D                    |  66.6%....} 
+--- Datagram ---
+98 90 40 98                                       |  ..@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8C 1D 90 7C        |   B: 66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8D 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7D 98 90 40                                    |  .}..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8C 1D 90 7C 98 90                           |  %....|.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20 36  |  A: 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8D 1D 90  7D                       |  6.6%....} 
+--- Datagram ---
+98 90 40 98                                       |  ..@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8C 1D 90 7C           |  B: 66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8D 1D 90  |      B: 66.6%.... 
+--- Datagram ---
+7D 98 90 40                                       |  }..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36 25  |  6.8%    B: 66.6% 
+--- Datagram ---
+0D 8C 1D 90 7C 98 90                              |  ....|.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36     |  : 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8D 1D 90  7D                       |  6.6%....} 
+--- Datagram ---
+98 90 48 98                                       |  ..H. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8C 1D 90 7C           |  B: 66.6%....| 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8D 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7D 98 90 48                                       |  }..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8C 1D 90 7C 98 90                              |  ....|.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36     |  : 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8D 1D 90  7D 98                    |  6.6%....}. 
+--- Datagram ---
+90 40 98                                          |  .@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8C 1D 90 7C              |  : 66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8D 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7D 98 90 40                                       |  }..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25 0D  |  .8%    B: 66.6%. 
+--- Datagram ---
+8C 1D 90 7C 98 90 40                              |  ...|..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36 36  |  : 66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8D 1D 90 7D  98                       |  .6%....}. 
+--- Datagram ---
+90 40 98                                          |  .@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8C 1D 90 7C              |  : 66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8D 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7D 98 90 40                                       |  }..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  8%    B: 66.6%. 
+--- Datagram ---
+8C 1D 90 7C 98 90 40                              |  ...|..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8D 1D 90 7D  98 90                    |  .6%....}.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8C 1D 90 7C              |  : 66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8D 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7D 98 90 40                                       |  }..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  8%    B: 66.6%. 
+--- Datagram ---
+8C 1D 90 7C 98 90 40                              |  ...|..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36 2E  |   66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8D 1D 90 7D 98  90                       |  6%....}.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42 3A  |  ..A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8C  1D 90 7C                 |   66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8D 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7D 98 90 48                                       |  }..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D 8C  |  8%    B: 66.6%.. 
+--- Datagram ---
+1D 90 7C 98 90 48                                 |  ..|..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8D 1D 90 7D 98  90                       |  6%....}.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8C  1D 90 7C                 |   66.6%....| 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8D 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7D 98 90 48                                       |  }..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8C     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7C 98 90 48                                 |  ..|..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8D 1D 90 7D 98  90                       |  6%....}.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A 20  |  .A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8C 1D  90 7C                    |  66.6%....| 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8D 1D 90           |   B: 66.6%.... 
+--- Datagram ---
+7D 98 90 48                                       |  }..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8C     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7C 98 90 48                                 |  ..|..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E 36  |  66.8%    B: 66.6 
+--- Datagram ---
+25 0D 8D 1D 90 7D 98 90                           |  %....}.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8C 1D  90 7C                    |  66.6%....| 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8D 1D 90 7D        |   B: 66.6%....} 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8C 1D  |  %    B: 66.6%... 
+--- Datagram ---
+90 7C 98 90 48                                    |  .|..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8D 1D 90 7D 98 90                           |  %....}.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8C 1D  90 7C                    |  66.6%....| 
+--- Datagram ---
+98 90 48 98                                       |  ..H. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8D 1D 90 7D           |  B: 66.6%....} 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8C 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7C 98 90 40                                    |  .|..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36 25  |  6.8%    B: 66.6% 
+--- Datagram ---
+0D 8D 1D 90 7D 98 90                              |  ....}.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20 36  |  A: 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8C 1D 90  7C                       |  6.6%....| 
+--- Datagram ---
+98 90 40 98                                       |  ..@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8D 1D 90 7D           |  B: 66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8C 1D 90  |      B: 66.6%.... 
+--- Datagram ---
+7C 98 90 40                                       |  |..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8D 1D 90 7D 98 90                              |  ....}.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36     |  : 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8C 1D 90  7C 98                    |  6.6%....|. 
+--- Datagram ---
+90 48 98                                          |  .H. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8D 1D 90 7D           |  B: 66.6%....} 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8C 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7C 98 90 48                                       |  |..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8D 1D 90 7D 98 90 48                           |  ....}..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36 36  |  : 66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8C 1D 90 7C  98                       |  .6%....|. 
+--- Datagram ---
+90 48 98                                          |  .H. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8D 1D 90 7D              |  : 66.6%....} 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8C 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7C 98 90 48                                       |  |..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25 0D  |  .8%    B: 66.6%. 
+--- Datagram ---
+8D 1D 90 7D 98 90 40                              |  ...}..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8C 1D 90 7C  98                       |  .6%....|. 
+--- Datagram ---
+90 40 98                                          |  .@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8D 1D 90 7D              |  : 66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8C 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7C 98 90 40                                       |  |..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  8%    B: 66.6%. 
+--- Datagram ---
+8D 1D 90 7D 98 90 40                              |  ...}..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8C 1D 90 7C  98 90                    |  .6%....|.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42 3A  |  ..A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8D  1D 90 7D                 |   66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8C 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7C 98 90 40                                       |  |..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D 8D  |  8%    B: 66.6%.. 
+--- Datagram ---
+1D 90 7D 98 90 40                                 |  ..}..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36 2E  |   66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8C 1D 90 7C 98  90                       |  6%....|.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8D  1D 90 7D                 |   66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8C 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7C 98 90 48                                       |  |..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8D     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7D 98 90 48                                 |  ..}..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8C 1D 90 7C 98  90                       |  6%....|.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8D  1D 90 7D                 |   66.6%....} 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8C 1D 90           |   B: 66.6%.... 
+--- Datagram ---
+7C 98 90 40                                       |  |..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8D     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7D 98 90 40                                 |  ..}..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E 36  |  66.8%    B: 66.6 
+--- Datagram ---
+25 0D 8C 1D 90 7C 98 90                           |  %....|.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A 20  |  .A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8D 1D  90 7D                    |  66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8C 1D 90 7C        |   B: 66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8D 1D  |  %    B: 66.6%... 
+--- Datagram ---
+90 7D 98 90 40                                    |  .}..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8C 1D 90 7C 98 90                           |  %....|.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8D 1D  90 7D                    |  66.6%....} 
+--- Datagram ---
+98 90 40 98                                       |  ..@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8C 1D 90 7C        |   B: 66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8D 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7D 98 90 40                                    |  .}..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8C 1D 90 7C 98 90                           |  %....|.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20 36  |  A: 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8D 1D 90  7D                       |  6.6%....} 
+--- Datagram ---
+98 90 40 98                                       |  ..@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8C 1D 90 7C           |  B: 66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8D 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7D 98 90 40                                    |  .}..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36 25  |  6.8%    B: 66.6% 
+--- Datagram ---
+0D 8C 1D 90 7C 98 90                              |  ....|.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36     |  : 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8D 1D 90  7D                       |  6.6%....} 
+--- Datagram ---
+98 90 40 98                                       |  ..@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8C 1D 90 7C           |  B: 66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8D 1D 90  |      B: 66.6%.... 
+--- Datagram ---
+7D 98 90 40                                       |  }..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8C 1D 90 7C 98 90                              |  ....|.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36     |  : 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8D 1D 90  7D 98                    |  6.6%....}. 
+--- Datagram ---
+90 40 98                                          |  .@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8C 1D 90 7C              |  : 66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8D 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7D 98 90 40                                       |  }..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8C 1D 90 7C 98 90 40                           |  ....|..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36 36  |  : 66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8D 1D 90 7D  98                       |  .6%....}. 
+--- Datagram ---
+90 40 98                                          |  .@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8C 1D 90 7C              |  : 66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8D 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7D 98 90 48                                       |  }..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25 0D  |  .8%    B: 66.6%. 
+--- Datagram ---
+8C 1D 90 7C 98 90 48                              |  ...|..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8D 1D 90 7D  98                       |  .6%....}. 
+--- Datagram ---
+90 48 98                                          |  .H. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8C 1D 90 7C              |  : 66.6%....| 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8D 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7D 98 90 48                                       |  }..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  8%    B: 66.6%. 
+--- Datagram ---
+8C 1D 90 7C 98 90 48                              |  ...|..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36 2E  |   66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8D 1D 90 7D 98  90                       |  6%....}.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42 3A  |  ..A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8C  1D 90 7C                 |   66.6%....| 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8D 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7D 98 90 48                                       |  }..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D 8C  |  8%    B: 66.6%.. 
+--- Datagram ---
+1D 90 7C 98 90 48                                 |  ..|..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8D 1D 90 7D 98  90                       |  6%....}.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8C  1D 90 7C                 |   66.6%....| 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8D 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7D 98 90 48                                       |  }..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8C     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7C 98 90 48                                 |  ..|..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8D 1D 90 7D 98  90                       |  6%....}.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8C  1D 90 7C                 |   66.6%....| 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8D 1D 90           |   B: 66.6%.... 
+--- Datagram ---
+7D 98 90 48                                       |  }..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8C     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7C 98 90 48                                 |  ..|..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E 36  |  66.8%    B: 66.6 
+--- Datagram ---
+25 0D 8D 1D 90 7D 98 90                           |  %....}.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A 20  |  .A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8C 1D  90 7C                    |  66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8D 1D 90 7D        |   B: 66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8C 1D  |  %    B: 66.6%... 
+--- Datagram ---
+90 7C 98 90 40                                    |  .|..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8D 1D 90 7D 98 90                           |  %....}.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8C 1D  90 7C                    |  66.6%....| 
+--- Datagram ---
+98 90 40 98                                       |  ..@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8D 1D 90 7D           |  B: 66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8C 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7C 98 90 40                                    |  .|..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8D 1D 90 7D 98 90                           |  %....}.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20 36  |  A: 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8C 1D 90  7C                       |  6.6%....| 
+--- Datagram ---
+98 90 40 98                                       |  ..@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8D 1D 90 7D           |  B: 66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8C 1D 90  |      B: 66.6%.... 
+--- Datagram ---
+7C 98 90 40                                       |  |..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36 25  |  6.8%    B: 66.6% 
+--- Datagram ---
+0D 8D 1D 90 7D 98 90                              |  ....}.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36     |  : 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8C 1D 90  7C                       |  6.6%....| 
+--- Datagram ---
+98 90 48 98                                       |  ..H. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8D 1D 90 7D           |  B: 66.6%....} 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8C 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7C 98 90 40                                       |  |..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8D 1D 90 7D 98 90 40                           |  ....}..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36     |  : 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8C 1D 90  7C 98                    |  6.6%....|. 
+--- Datagram ---
+90 40 98                                          |  .@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8D 1D 90 7D              |  : 66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8C 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7C 98 90 40                                       |  |..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25 0D  |  .8%    B: 66.6%. 
+--- Datagram ---
+8D 1D 90 7D 98 90 40                              |  ...}..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36 36  |  : 66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8C 1D 90 7C  98                       |  .6%....|. 
+--- Datagram ---
+90 48 98                                          |  .H. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8D 1D 90 7D              |  : 66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8C 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7C 98 90 48                                       |  |..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  8%    B: 66.6%. 
+--- Datagram ---
+8D 1D 90 7D 98 90 48                              |  ...}..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8C 1D 90 7C  98 90                    |  .6%....|.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8D 1D 90 7D              |  : 66.6%....} 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8C 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7C 98 90 48                                       |  |..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  8%    B: 66.6%. 
+--- Datagram ---
+8D 1D 90 7D 98 90 48                              |  ...}..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36 2E  |   66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8C 1D 90 7C 98  90                       |  6%....|.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42 3A  |  ..A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8D  1D 90 7D                 |   66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8C 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7C 98 90 40                                       |  |..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D 8D  |  8%    B: 66.6%.. 
+--- Datagram ---
+1D 90 7D 98 90 40                                 |  ..}..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8C 1D 90 7C 98  90                       |  6%....|.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8D  1D 90 7D                 |   66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8C 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7C 98 90 48                                       |  |..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8D     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7D 98 90 48                                 |  ..}..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8C 1D 90 7C 98  90                       |  6%....|.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A 20  |  .A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8D 1D  90 7D                    |  66.6%....} 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8C 1D 90           |   B: 66.6%.... 
+--- Datagram ---
+7C 98 90 48                                       |  |..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8D 1D  |  %    B: 66.6%... 
+--- Datagram ---
+90 7D 98 90 48                                    |  .}..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E 36  |  66.8%    B: 66.6 
+--- Datagram ---
+25 0D 8C 1D 90 7C 98 90                           |  %....|.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8D 1D  90 7D                    |  66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8C 1D 90 7C        |   B: 66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8D 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7D 98 90 40                                    |  .}..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8C 1D 90 7C 98 90                           |  %....|.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8D 1D  90 7D                    |  66.6%....} 
+--- Datagram ---
+98 90 40 98                                       |  ..@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8C 1D 90 7C           |  B: 66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8D 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7D 98 90 40                                    |  .}..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36 25  |  6.8%    B: 66.6% 
+--- Datagram ---
+0D 8C 1D 90 7C 98 90                              |  ....|.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20 36  |  A: 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8D 1D 90  7D                       |  6.6%....} 
+--- Datagram ---
+98 90 40 98                                       |  ..@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8C 1D 90 7C           |  B: 66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8D 1D 90  |      B: 66.6%.... 
+--- Datagram ---
+7D 98 90 48                                       |  }..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8C 1D 90 7C 98 90                              |  ....|.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36     |  : 66.8%    B: 6 
+--- Datagram ---
+36 2E 36 25 0D 8D 1D 90  7D 98                    |  6.6%....}. 
+--- Datagram ---
+90 48 98                                          |  .H. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20        |  ..A: 66.8%     
+--- Datagram ---
+42 3A 20 36 36 2E 36 25  0D 8C 1D 90 7C           |  B: 66.6%....| 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8D 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7D 98 90 48                                       |  }..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25     |  .8%    B: 66.6% 
+--- Datagram ---
+0D 8C 1D 90 7C 98 90 48                           |  ....|..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41                                          |  ..A 
+--- Datagram ---
+3A 20 36 36 2E 38 25 20  20 20 20 42 3A 20 36 36  |  : 66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8D 1D 90 7D  98                       |  .6%....}. 
+--- Datagram ---
+90 40 98                                          |  .@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8C 1D 90 7C              |  : 66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8D 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7D 98 90 40                                       |  }..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36                              |  ..A: 66 
+--- Datagram ---
+2E 38 25 20 20 20 20 42  3A 20 36 36 2E 36 25 0D  |  .8%    B: 66.6%. 
+--- Datagram ---
+8C 1D 90 7C 98 90 40                              |  ...|..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8D 1D 90 7D  98                       |  .6%....}. 
+--- Datagram ---
+90 40 98                                          |  .@. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42     |  ..A: 66.8%    B 
+--- Datagram ---
+3A 20 36 36 2E 36 25 0D  8C 1D 90 7C              |  : 66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20                 |  ..A: 66.8%  
+--- Datagram ---
+20 20 20 42 3A 20 36 36  2E 36 25 0D 8D 1D 90     |     B: 66.6%.... 
+--- Datagram ---
+7D 98 90 40                                       |  }..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  8%    B: 66.6%. 
+--- Datagram ---
+8C 1D 90 7C 98 90 40                              |  ...|..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36     |   66.8%    B: 66 
+--- Datagram ---
+2E 36 25 0D 8D 1D 90 7D  98 90                    |  .6%....}.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20 20 42 3A  |  ..A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8C  1D 90 7C                 |   66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8D 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7D 98 90 40                                       |  }..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D     |  8%    B: 66.6%. 
+--- Datagram ---
+8C 1D 90 7C 98 90 40                              |  ...|..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 36 2E 38 25 20 20  20 20 42 3A 20 36 36 2E  |   66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8D 1D 90 7D 98  90                       |  6%....}.. 
+--- Datagram ---
+48 98                                             |  H. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8C  1D 90 7C                 |   66.6%....| 
+--- Datagram ---
+98 90 48                                          |  ..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20              |  ..A: 66.8%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  36 25 0D 8D 1D 90        |    B: 66.6%.... 
+--- Datagram ---
+7D 98 90 48                                       |  }..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+38 25 20 20 20 20 42 3A  20 36 36 2E 36 25 0D 8C  |  8%    B: 66.6%.. 
+--- Datagram ---
+1D 90 7C 98 90 48                                 |  ..|..H 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8D 1D 90 7D 98  90                       |  6%....}.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A     |  .A: 66.8%    B: 
+--- Datagram ---
+20 36 36 2E 36 25 0D 8C  1D 90 7C                 |   66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8D 1D 90           |   B: 66.6%.... 
+--- Datagram ---
+7D 98 90 40                                       |  }..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8C     |  %    B: 66.6%.. 
+--- Datagram ---
+1D 90 7C 98 90 40                                 |  ..|..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E     |  66.8%    B: 66. 
+--- Datagram ---
+36 25 0D 8D 1D 90 7D 98  90                       |  6%....}.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 38  25 20 20 20 20 42 3A 20  |  .A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8C 1D  90 7C                    |  66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8D 1D 90 7D        |   B: 66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38                       |  ..A: 66.8 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 36 25 0D 8C 1D  |  %    B: 66.6%... 
+--- Datagram ---
+90 7C 98 90 40                                    |  .|..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 38 25 20 20 20  20 42 3A 20 36 36 2E 36  |  66.8%    B: 66.6 
+--- Datagram ---
+25 0D 8D 1D 90 7D 98 90                           |  %....}.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8C 1D  90 7C                    |  66.6%....| 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25 20 20 20           |  ..A: 66.8%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 36  25 0D 8D 1D 90 7D        |   B: 66.6%....} 
+--- Datagram ---
+98 90 40                                          |  ..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  38 25                    |  ..A: 66.8% 
+--- Datagram ---
+20 20 20 20 42 3A 20 36  36 2E 36 25 0D 8C 1D     |      B: 66.6%... 
+--- Datagram ---
+90 7C 98 90 40                                    |  .|..@ 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36                                 |  ..A: 6 
+--- Datagram ---
+36 2E 38 25 20 20 20 20  42 3A 20 36 36 2E 36     |  6.8%    B: 66.6 
+--- Datagram ---
+25 0D 8D 1D 90 7D 98 90                           |  %....}.. 
+--- Datagram ---
+40 98                                             |  @. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+41 3A 20 36 36 2E 38 25  20 20 20 20 42 3A 20     |  A: 66.8%    B:  
+--- Datagram ---
+36 36 2E 36 25 0D 8C 1D  90 7C         

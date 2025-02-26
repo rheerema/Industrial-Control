@@ -1,0 +1,7 @@
+logfile.txt
+report*
+history*
+logmode*
+printem
+*.o
+*~

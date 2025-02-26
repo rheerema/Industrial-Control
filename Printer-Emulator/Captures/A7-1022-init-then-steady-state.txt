@@ -1,0 +1,378 @@
+--- Datagram ---
+F0                                                |  . 
+--- Datagram ---
+91 0A 0E 1E 31 30 32 32                           |  ....1022 
+--- Datagram ---
+20 69 6E 69 74 69 61 6C  69 7A 69 6E 67 2E 2E     |   initializing.. 
+--- Datagram ---
+2E 0D                                             |  .. 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 90 70                                          |  ..p 
+--- Datagram ---
+98 90                                             |  .. 
+--- Datagram ---
+44 98                                             |  D. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 20 43 50 55 53 54 41  52 54 20 3A 3A 20 20     |  . CPUSTART ::   
+--- Datagram ---
+44 49 56 45 52 54 84 1D  90 74                    |  DIVERT...t 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50 55 53 54  41 52 54 20 3A           |  .. CPUSTART : 
+--- Datagram ---
+3A 20 20 44 49 56 45 52  54 8D 1D 90 7D           |  :  DIVERT...} 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50 55 53 54  41                       |  .. CPUSTA 
+--- Datagram ---
+52 54 20 3A 3A 20 20 44  49 56 45 52 54 8C 1D     |  RT ::  DIVERT.. 
+--- Datagram ---
+90 7C                                             |  .| 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50                                    |  .. CP 
+--- Datagram ---
+55 53 54 41 52 54 20 3A  3A 20 20 44 49 56 45 52  |  USTART ::  DIVER 
+--- Datagram ---
+54 8D 1D 90 7D                                    |  T...} 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+20 43 50 55 53 54 41 52  54 20 3A 3A 20 20 44     |   CPUSTART ::  D 
+--- Datagram ---
+49 56 45 52 54 8C 1D 90  7C                       |  IVERT...| 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50 55 53 54  41 52 54 20 3A           |  .. CPUSTART : 
+--- Datagram ---
+3A 20 20 44 49 56 45 52  54 85 1D 90 75           |  :  DIVERT...u 
+--- Datagram ---
+98 90 44                                          |  ..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50 55 53 54  41                       |  .. CPUSTA 
+--- Datagram ---
+52 54 20 3A 3A 20 20 44  49 56 45 52 54 84 1D 90  |  RT ::  DIVERT... 
+--- Datagram ---
+74 98 90 44                                       |  t..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50 55                                 |  .. CPU 
+--- Datagram ---
+53 54 41 52 54 20 3A 3A  20 20 44 49 56 45 52     |  START ::  DIVER 
+--- Datagram ---
+54 85 1D 90 75 98 90                              |  T...u.. 
+--- Datagram ---
+44 98                                             |  D. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+20 43 50 55 53 54 41 52  54 20 3A 3A 20 20 44     |   CPUSTART ::  D 
+--- Datagram ---
+49 56 45 52 54 84 1D 90  74                       |  IVERT...t 
+--- Datagram ---
+98 90 44 98                                       |  ..D. 
+--- Datagram ---
+91 0D 20 43 50 55 53 54  41 52 54 20 3A 3A        |  .. CPUSTART :: 
+--- Datagram ---
+20 20 44 49 56 45 52 54  85 1D 90 75              |    DIVERT...u 
+--- Datagram ---
+98 90 44                                          |  ..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50 55 53 54  41 52                    |  .. CPUSTAR 
+--- Datagram ---
+54 20 3A 3A 20 20 44 49  56 45 52 54 84 1D 90     |  T ::  DIVERT... 
+--- Datagram ---
+74 98 90 44                                       |  t..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 43 50 55                                 |  .. CPU 
+--- Datagram ---
+53 54 41 52 54 20 3A 3A  20 20 44 49 56 45 52     |  START ::  DIVER 
+--- Datagram ---
+54 8D 1D 90 7D 98 90                              |  T...}.. 
+--- Datagram ---
+44 98                                             |  D. 
+--- Datagram ---
+91 0D                                             |  .. 
+--- Datagram ---
+20 43 50 55 53 54 41 52  54 20 3A 3A 20 20 44 49  |   CPUSTART ::  DI 
+--- Datagram ---
+56 45 52 54 8C 1D 90 7C                           |  VERT...| 
+--- Datagram ---
+98 90 44 98                                       |  ..D. 
+--- Datagram ---
+91 0D 20 52 65 66 72 61  63 73 20 4F 55 54        |  .. Refracs OUT 
+--- Datagram ---
+3A 20 44 49 56 45 52 54  8D 1D 90 7D              |  : DIVERT...} 
+--- Datagram ---
+98 90 44                                          |  ..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 52 65 66 72 61  63 73                    |  .. Refracs 
+--- Datagram ---
+20 4F 55 54 3A 20 44 49  56 45 52 54 8C 1D 90     |   OUT: DIVERT... 
+--- Datagram ---
+7C 98 90 44                                       |  |..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 52 65 66                                 |  .. Ref 
+--- Datagram ---
+72 61 63 73 20 4F 55 54  3A 20 44 49 56 45 52 54  |  racs OUT: DIVERT 
+--- Datagram ---
+85 1D 90 75 98 90                                 |  ...u.. 
+--- Datagram ---
+44 98                                             |  D. 
+--- Datagram ---
+91 0D 20                                          |  ..  
+--- Datagram ---
+52 65 66 72 61 63 73 20  4F 55 54 3A 20 44 49     |  Refracs OUT: DI 
+--- Datagram ---
+56 45 52 54 84 1D 90 74                           |  VERT...t 
+--- Datagram ---
+98 90 44 98                                       |  ..D. 
+--- Datagram ---
+91 0D 20 52 65 66 72 61  63 73 20 4F 55 54        |  .. Refracs OUT 
+--- Datagram ---
+3A 20 44 49 56 45 52 54  85 1D 90 75              |  : DIVERT...u 
+--- Datagram ---
+98 90 44                                          |  ..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 52 65 66 72 61  63 73                    |  .. Refracs 
+--- Datagram ---
+20 4F 55 54 3A 20 44 49  56 45 52 54 84 1D 90     |   OUT: DIVERT... 
+--- Datagram ---
+74 98 90 44                                       |  t..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 52 65 66 72                              |  .. Refr 
+--- Datagram ---
+61 63 73 20 4F 55 54 3A  20 44 49 56 45 52 54     |  acs OUT: DIVERT 
+--- Datagram ---
+85 1D 90 75 98 90                                 |  ...u.. 
+--- Datagram ---
+44 98                                             |  D. 
+--- Datagram ---
+91 0D 20                                          |  ..  
+--- Datagram ---
+52 65 66 72 61 63 73 20  4F 55 54 3A 20 44 49     |  Refracs OUT: DI 
+--- Datagram ---
+56 45 52 54 84 1D 90 74  98                       |  VERT...t. 
+--- Datagram ---
+90 44 98                                          |  .D. 
+--- Datagram ---
+91 0D 20 52 65 66 72 61  63 73 20 4F 55 54 3A     |  .. Refracs OUT: 
+--- Datagram ---
+20 44 49 56 45 52 54 8D  1D 90 7D                 |   DIVERT...} 
+--- Datagram ---
+98 90 44                                          |  ..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 52 65 66 72 61  63 73 20                 |  .. Refracs  
+--- Datagram ---
+4F 55 54 3A 20 44 49 56  45 52 54 8C 1D 90        |  OUT: DIVERT... 
+--- Datagram ---
+7C 98 90 44                                       |  |..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 52 65 66 72                              |  .. Refr 
+--- Datagram ---
+61 63 73 20 4F 55 54 3A  20 44 49 56 45 52 54 8D  |  acs OUT: DIVERT. 
+--- Datagram ---
+1D 90 7D 98 90 44                                 |  ..}..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20                                          |  ..  
+--- Datagram ---
+52 65 66 72 61 63 73 20  4F 55 54 3A 20 44 49 56  |  Refracs OUT: DIV 
+--- Datagram ---
+45 52 54 8C 1D 90 7C 98                           |  ERT...|. 
+--- Datagram ---
+90 44 98                                          |  .D. 
+--- Datagram ---
+91 0D 20 52 65 66 72 61  63 73 20 4F 55 54 3A     |  .. Refracs OUT: 
+--- Datagram ---
+20 44 49 56 45 52 54 85  1D 90 75                 |   DIVERT...u 
+--- Datagram ---
+98 90 44                                          |  ..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 52 65 66 72 61  63 73 20                 |  .. Refracs  
+--- Datagram ---
+4F 55 54 3A 20 44 49 56  45 52 54 84 1D 90        |  OUT: DIVERT... 
+--- Datagram ---
+74 98 90 44                                       |  t..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 20 52 65 66 72 61                           |  .. Refra 
+--- Datagram ---
+63 73 20 4F 55 54 3A 20  44 49 56 45 52 54 85     |  cs OUT: DIVERT. 
+--- Datagram ---
+1D 90 75 98 90 44                                 |  ..u..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 37 2E 30 25 20 20  20 20 42 3A 20 36 36     |   67.0%    B: 66 
+--- Datagram ---
+2E 37 25 0D 84 1D 90 74  98                       |  .7%....t. 
+--- Datagram ---
+90 44 98                                          |  .D. 
+--- Datagram ---
+91 0D 41 3A 20 36 37 2E  30 25 20 20 20 20 42     |  ..A: 67.0%    B 
+--- Datagram ---
+3A 20 36 36 2E 37 25 0D  85 1D 90 75              |  : 66.7%....u 
+--- Datagram ---
+98 90 44                                          |  ..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 37 2E  30 25 20 20              |  ..A: 67.0%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  37 25 0D 84 1D 90        |    B: 66.7%.... 
+--- Datagram ---
+74 98 90 44                                       |  t..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 37 2E                           |  ..A: 67. 
+--- Datagram ---
+30 25 20 20 20 20 42 3A  20 36 36 2E 37 25 0D     |  0%    B: 66.7%. 
+--- Datagram ---
+8D 1D 90 7D 98 90 44                              |  ...}..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A                                       |  ..A: 
+--- Datagram ---
+20 36 37 2E 30 25 20 20  20 20 42 3A 20 36 36     |   67.0%    B: 66 
+--- Datagram ---
+2E 37 25 0D 8C 1D 90 7C  98 90                    |  .7%....|.. 
+--- Datagram ---
+44 98                                             |  D. 
+--- Datagram ---
+91 0D 41 3A 20 36 37 2E  30 25 20 20 20 20 42 3A  |  ..A: 67.0%    B: 
+--- Datagram ---
+20 36 36 2E 37 25 0D 8D  1D 90 7D                 |   66.7%....} 
+--- Datagram ---
+98 90 44                                          |  ..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  39 25 20 20              |  ..A: 66.9%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  37 25 0D 8C 1D 90        |    B: 66.7%.... 
+--- Datagram ---
+7C 98 90 44                                       |  |..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E                           |  ..A: 66. 
+--- Datagram ---
+39 25 20 20 20 20 42 3A  20 36 36 2E 37 25 0D 85  |  9%    B: 66.7%.. 
+--- Datagram ---
+1D 90 75 98 90 44                                 |  ..u..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 39 25 20 20 20  20 42 3A 20 36 36 2E     |  66.9%    B: 66. 
+--- Datagram ---
+37 25 0D 84 1D 90 74 98  90                       |  7%....t.. 
+--- Datagram ---
+44 98                                             |  D. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 39  25 20 20 20 20 42 3A     |  .A: 66.9%    B: 
+--- Datagram ---
+20 36 36 2E 37 25 0D 85  1D 90 75                 |   66.7%....u 
+--- Datagram ---
+98 90 44                                          |  ..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  39 25 20 20              |  ..A: 66.9%   
+--- Datagram ---
+20 20 42 3A 20 36 36 2E  37 25 0D 84 1D 90        |    B: 66.7%.... 
+--- Datagram ---
+74 98 90 44                                       |  t..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  39                       |  ..A: 66.9 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 37 25 0D 85     |  %    B: 66.7%.. 
+--- Datagram ---
+1D 90 75 98 90 44                                 |  ..u..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 39 25 20 20 20  20 42 3A 20 36 36 2E     |  66.9%    B: 66. 
+--- Datagram ---
+37 25 0D 84 1D 90 74 98  90                       |  7%....t.. 
+--- Datagram ---
+44 98                                             |  D. 
+--- Datagram ---
+91                                                |  . 
+--- Datagram ---
+0D 41 3A 20 36 36 2E 39  25 20 20 20 20 42 3A 20  |  .A: 66.9%    B:  
+--- Datagram ---
+36 36 2E 37 25 0D 8D 1D  90 7D                    |  66.7%....} 
+--- Datagram ---
+98 90 44                                          |  ..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  39 25 20 20 20           |  ..A: 66.9%    
+--- Datagram ---
+20 42 3A 20 36 36 2E 37  25 0D 8C 1D 90           |   B: 66.7%.... 
+--- Datagram ---
+7C 98 90 44                                       |  |..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20 36 36 2E  39                       |  ..A: 66.9 
+--- Datagram ---
+25 20 20 20 20 42 3A 20  36 36 2E 37 25 0D 8D     |  %    B: 66.7%.. 
+--- Datagram ---
+1D 90 7D 98 90 44                                 |  ..}..D 
+--- Datagram ---
+98                                                |  . 
+--- Datagram ---
+91 0D 41 3A 20                                    |  ..A:  
+--- Datagram ---
+36 36 2E 39 25 20 20 20  20 42 3A 20 36 36 2E 37  |  66.9%    B: 66.7 
+--- Datagram ---
+25 0D 8C 1D 90 7C 98 90                           |  %....|.. 
+--- Datagram ---
+44 98                                             |  D. 
