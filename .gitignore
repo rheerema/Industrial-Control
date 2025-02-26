@@ -1,0 +1,6 @@
+Printer-Emulator/Data/*
+PE-Console/peconsole
+PE-Control/pecontrol
+*.o
+*~
+

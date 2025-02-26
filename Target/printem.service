@@ -1,0 +1,13 @@
+[Unit]
+Description=LSC Printer Emulator 1022 protocol engine for RS-485 communication
+After=syslog.target network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/printem
+Restart=always
+RestartSec=2
+KillMode=process
+
+[Install]
+WantedBy=multi-user.target
